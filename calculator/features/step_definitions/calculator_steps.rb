@@ -1,4 +1,4 @@
-Given(/^then input "([^"]*)"$/) do |input|
+Given(/^the input "([^"]*)"$/) do |input|
 	@input = input
 end
 
